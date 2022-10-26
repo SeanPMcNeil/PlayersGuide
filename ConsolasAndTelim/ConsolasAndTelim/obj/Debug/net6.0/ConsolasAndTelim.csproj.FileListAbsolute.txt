@@ -1,0 +1,15 @@
+/Users/lowkey/PlayersGuide/ConsolasAndTelim/ConsolasAndTelim/bin/Debug/net6.0/ConsolasAndTelim
+/Users/lowkey/PlayersGuide/ConsolasAndTelim/ConsolasAndTelim/bin/Debug/net6.0/ConsolasAndTelim.deps.json
+/Users/lowkey/PlayersGuide/ConsolasAndTelim/ConsolasAndTelim/bin/Debug/net6.0/ConsolasAndTelim.runtimeconfig.json
+/Users/lowkey/PlayersGuide/ConsolasAndTelim/ConsolasAndTelim/bin/Debug/net6.0/ConsolasAndTelim.dll
+/Users/lowkey/PlayersGuide/ConsolasAndTelim/ConsolasAndTelim/bin/Debug/net6.0/ConsolasAndTelim.pdb
+/Users/lowkey/PlayersGuide/ConsolasAndTelim/ConsolasAndTelim/obj/Debug/net6.0/ConsolasAndTelim.csproj.AssemblyReference.cache
+/Users/lowkey/PlayersGuide/ConsolasAndTelim/ConsolasAndTelim/obj/Debug/net6.0/ConsolasAndTelim.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lowkey/PlayersGuide/ConsolasAndTelim/ConsolasAndTelim/obj/Debug/net6.0/ConsolasAndTelim.AssemblyInfoInputs.cache
+/Users/lowkey/PlayersGuide/ConsolasAndTelim/ConsolasAndTelim/obj/Debug/net6.0/ConsolasAndTelim.AssemblyInfo.cs
+/Users/lowkey/PlayersGuide/ConsolasAndTelim/ConsolasAndTelim/obj/Debug/net6.0/ConsolasAndTelim.csproj.CoreCompileInputs.cache
+/Users/lowkey/PlayersGuide/ConsolasAndTelim/ConsolasAndTelim/obj/Debug/net6.0/ConsolasAndTelim.dll
+/Users/lowkey/PlayersGuide/ConsolasAndTelim/ConsolasAndTelim/obj/Debug/net6.0/refint/ConsolasAndTelim.dll
+/Users/lowkey/PlayersGuide/ConsolasAndTelim/ConsolasAndTelim/obj/Debug/net6.0/ConsolasAndTelim.pdb
+/Users/lowkey/PlayersGuide/ConsolasAndTelim/ConsolasAndTelim/obj/Debug/net6.0/ConsolasAndTelim.genruntimeconfig.cache
+/Users/lowkey/PlayersGuide/ConsolasAndTelim/ConsolasAndTelim/obj/Debug/net6.0/ref/ConsolasAndTelim.dll

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{455BFA04-0D70-4338-9A5E-26B163B7EFA8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsolasAndTelim/Program.cs">
+    <Files>
+      <File FileName="ConsolasAndTelim/Program.cs" Line="6" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConsolasAndTelim" expanded="True">
+            <Node name="ConsolasAndTelim" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ConsolasAndTelim PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
