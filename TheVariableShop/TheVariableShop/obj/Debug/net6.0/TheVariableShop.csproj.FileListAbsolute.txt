@@ -1,0 +1,15 @@
+/Users/lowkey/PlayersGuide/TheVariableShop/TheVariableShop/bin/Debug/net6.0/TheVariableShop
+/Users/lowkey/PlayersGuide/TheVariableShop/TheVariableShop/bin/Debug/net6.0/TheVariableShop.deps.json
+/Users/lowkey/PlayersGuide/TheVariableShop/TheVariableShop/bin/Debug/net6.0/TheVariableShop.runtimeconfig.json
+/Users/lowkey/PlayersGuide/TheVariableShop/TheVariableShop/bin/Debug/net6.0/TheVariableShop.dll
+/Users/lowkey/PlayersGuide/TheVariableShop/TheVariableShop/bin/Debug/net6.0/TheVariableShop.pdb
+/Users/lowkey/PlayersGuide/TheVariableShop/TheVariableShop/obj/Debug/net6.0/TheVariableShop.csproj.AssemblyReference.cache
+/Users/lowkey/PlayersGuide/TheVariableShop/TheVariableShop/obj/Debug/net6.0/TheVariableShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lowkey/PlayersGuide/TheVariableShop/TheVariableShop/obj/Debug/net6.0/TheVariableShop.AssemblyInfoInputs.cache
+/Users/lowkey/PlayersGuide/TheVariableShop/TheVariableShop/obj/Debug/net6.0/TheVariableShop.AssemblyInfo.cs
+/Users/lowkey/PlayersGuide/TheVariableShop/TheVariableShop/obj/Debug/net6.0/TheVariableShop.csproj.CoreCompileInputs.cache
+/Users/lowkey/PlayersGuide/TheVariableShop/TheVariableShop/obj/Debug/net6.0/TheVariableShop.dll
+/Users/lowkey/PlayersGuide/TheVariableShop/TheVariableShop/obj/Debug/net6.0/refint/TheVariableShop.dll
+/Users/lowkey/PlayersGuide/TheVariableShop/TheVariableShop/obj/Debug/net6.0/TheVariableShop.pdb
+/Users/lowkey/PlayersGuide/TheVariableShop/TheVariableShop/obj/Debug/net6.0/TheVariableShop.genruntimeconfig.cache
+/Users/lowkey/PlayersGuide/TheVariableShop/TheVariableShop/obj/Debug/net6.0/ref/TheVariableShop.dll
