@@ -1,0 +1,15 @@
+/Users/lowkey/projects/TheVariableShopReturns/TheVariableShopReturns/bin/Debug/net6.0/TheVariableShopReturns
+/Users/lowkey/projects/TheVariableShopReturns/TheVariableShopReturns/bin/Debug/net6.0/TheVariableShopReturns.deps.json
+/Users/lowkey/projects/TheVariableShopReturns/TheVariableShopReturns/bin/Debug/net6.0/TheVariableShopReturns.runtimeconfig.json
+/Users/lowkey/projects/TheVariableShopReturns/TheVariableShopReturns/bin/Debug/net6.0/TheVariableShopReturns.dll
+/Users/lowkey/projects/TheVariableShopReturns/TheVariableShopReturns/bin/Debug/net6.0/TheVariableShopReturns.pdb
+/Users/lowkey/projects/TheVariableShopReturns/TheVariableShopReturns/obj/Debug/net6.0/TheVariableShopReturns.csproj.AssemblyReference.cache
+/Users/lowkey/projects/TheVariableShopReturns/TheVariableShopReturns/obj/Debug/net6.0/TheVariableShopReturns.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lowkey/projects/TheVariableShopReturns/TheVariableShopReturns/obj/Debug/net6.0/TheVariableShopReturns.AssemblyInfoInputs.cache
+/Users/lowkey/projects/TheVariableShopReturns/TheVariableShopReturns/obj/Debug/net6.0/TheVariableShopReturns.AssemblyInfo.cs
+/Users/lowkey/projects/TheVariableShopReturns/TheVariableShopReturns/obj/Debug/net6.0/TheVariableShopReturns.csproj.CoreCompileInputs.cache
+/Users/lowkey/projects/TheVariableShopReturns/TheVariableShopReturns/obj/Debug/net6.0/TheVariableShopReturns.dll
+/Users/lowkey/projects/TheVariableShopReturns/TheVariableShopReturns/obj/Debug/net6.0/refint/TheVariableShopReturns.dll
+/Users/lowkey/projects/TheVariableShopReturns/TheVariableShopReturns/obj/Debug/net6.0/TheVariableShopReturns.pdb
+/Users/lowkey/projects/TheVariableShopReturns/TheVariableShopReturns/obj/Debug/net6.0/TheVariableShopReturns.genruntimeconfig.cache
+/Users/lowkey/projects/TheVariableShopReturns/TheVariableShopReturns/obj/Debug/net6.0/ref/TheVariableShopReturns.dll
