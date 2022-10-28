@@ -1,0 +1,15 @@
+/Users/lowkey/PlayersGuide/TheDominionofKings/TheDominionofKings/bin/Debug/net6.0/TheDominionofKings
+/Users/lowkey/PlayersGuide/TheDominionofKings/TheDominionofKings/bin/Debug/net6.0/TheDominionofKings.deps.json
+/Users/lowkey/PlayersGuide/TheDominionofKings/TheDominionofKings/bin/Debug/net6.0/TheDominionofKings.runtimeconfig.json
+/Users/lowkey/PlayersGuide/TheDominionofKings/TheDominionofKings/bin/Debug/net6.0/TheDominionofKings.dll
+/Users/lowkey/PlayersGuide/TheDominionofKings/TheDominionofKings/bin/Debug/net6.0/TheDominionofKings.pdb
+/Users/lowkey/PlayersGuide/TheDominionofKings/TheDominionofKings/obj/Debug/net6.0/TheDominionofKings.csproj.AssemblyReference.cache
+/Users/lowkey/PlayersGuide/TheDominionofKings/TheDominionofKings/obj/Debug/net6.0/TheDominionofKings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lowkey/PlayersGuide/TheDominionofKings/TheDominionofKings/obj/Debug/net6.0/TheDominionofKings.AssemblyInfoInputs.cache
+/Users/lowkey/PlayersGuide/TheDominionofKings/TheDominionofKings/obj/Debug/net6.0/TheDominionofKings.AssemblyInfo.cs
+/Users/lowkey/PlayersGuide/TheDominionofKings/TheDominionofKings/obj/Debug/net6.0/TheDominionofKings.csproj.CoreCompileInputs.cache
+/Users/lowkey/PlayersGuide/TheDominionofKings/TheDominionofKings/obj/Debug/net6.0/TheDominionofKings.dll
+/Users/lowkey/PlayersGuide/TheDominionofKings/TheDominionofKings/obj/Debug/net6.0/refint/TheDominionofKings.dll
+/Users/lowkey/PlayersGuide/TheDominionofKings/TheDominionofKings/obj/Debug/net6.0/TheDominionofKings.pdb
+/Users/lowkey/PlayersGuide/TheDominionofKings/TheDominionofKings/obj/Debug/net6.0/TheDominionofKings.genruntimeconfig.cache
+/Users/lowkey/PlayersGuide/TheDominionofKings/TheDominionofKings/obj/Debug/net6.0/ref/TheDominionofKings.dll
