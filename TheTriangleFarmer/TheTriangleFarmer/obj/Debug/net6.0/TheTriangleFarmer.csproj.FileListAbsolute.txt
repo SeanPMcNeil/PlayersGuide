@@ -1,0 +1,15 @@
+/Users/lowkey/PlayersGuide/TheTriangleFarmer/TheTriangleFarmer/bin/Debug/net6.0/TheTriangleFarmer
+/Users/lowkey/PlayersGuide/TheTriangleFarmer/TheTriangleFarmer/bin/Debug/net6.0/TheTriangleFarmer.deps.json
+/Users/lowkey/PlayersGuide/TheTriangleFarmer/TheTriangleFarmer/bin/Debug/net6.0/TheTriangleFarmer.runtimeconfig.json
+/Users/lowkey/PlayersGuide/TheTriangleFarmer/TheTriangleFarmer/bin/Debug/net6.0/TheTriangleFarmer.dll
+/Users/lowkey/PlayersGuide/TheTriangleFarmer/TheTriangleFarmer/bin/Debug/net6.0/TheTriangleFarmer.pdb
+/Users/lowkey/PlayersGuide/TheTriangleFarmer/TheTriangleFarmer/obj/Debug/net6.0/TheTriangleFarmer.csproj.AssemblyReference.cache
+/Users/lowkey/PlayersGuide/TheTriangleFarmer/TheTriangleFarmer/obj/Debug/net6.0/TheTriangleFarmer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lowkey/PlayersGuide/TheTriangleFarmer/TheTriangleFarmer/obj/Debug/net6.0/TheTriangleFarmer.AssemblyInfoInputs.cache
+/Users/lowkey/PlayersGuide/TheTriangleFarmer/TheTriangleFarmer/obj/Debug/net6.0/TheTriangleFarmer.AssemblyInfo.cs
+/Users/lowkey/PlayersGuide/TheTriangleFarmer/TheTriangleFarmer/obj/Debug/net6.0/TheTriangleFarmer.csproj.CoreCompileInputs.cache
+/Users/lowkey/PlayersGuide/TheTriangleFarmer/TheTriangleFarmer/obj/Debug/net6.0/TheTriangleFarmer.dll
+/Users/lowkey/PlayersGuide/TheTriangleFarmer/TheTriangleFarmer/obj/Debug/net6.0/refint/TheTriangleFarmer.dll
+/Users/lowkey/PlayersGuide/TheTriangleFarmer/TheTriangleFarmer/obj/Debug/net6.0/TheTriangleFarmer.pdb
+/Users/lowkey/PlayersGuide/TheTriangleFarmer/TheTriangleFarmer/obj/Debug/net6.0/TheTriangleFarmer.genruntimeconfig.cache
+/Users/lowkey/PlayersGuide/TheTriangleFarmer/TheTriangleFarmer/obj/Debug/net6.0/ref/TheTriangleFarmer.dll
