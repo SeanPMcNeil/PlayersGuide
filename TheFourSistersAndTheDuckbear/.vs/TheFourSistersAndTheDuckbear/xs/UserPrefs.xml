@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{FCA4E6D8-A2BB-4E5E-ADD5-EF14F4C29D3D}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TheFourSistersAndTheDuckbear/Program.cs">
+    <Files>
+      <File FileName="TheFourSistersAndTheDuckbear/Program.cs" Line="16" Column="67" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TheFourSistersAndTheDuckbear" expanded="True">
+            <Node name="TheFourSistersAndTheDuckbear" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TheFourSistersAndTheDuckbear PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
