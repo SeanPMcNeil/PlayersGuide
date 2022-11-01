@@ -1,0 +1,15 @@
+/Users/lowkey/PlayersGuide/BuyingInventory/BuyingInventory/bin/Debug/net6.0/BuyingInventory
+/Users/lowkey/PlayersGuide/BuyingInventory/BuyingInventory/bin/Debug/net6.0/BuyingInventory.deps.json
+/Users/lowkey/PlayersGuide/BuyingInventory/BuyingInventory/bin/Debug/net6.0/BuyingInventory.runtimeconfig.json
+/Users/lowkey/PlayersGuide/BuyingInventory/BuyingInventory/bin/Debug/net6.0/BuyingInventory.dll
+/Users/lowkey/PlayersGuide/BuyingInventory/BuyingInventory/bin/Debug/net6.0/BuyingInventory.pdb
+/Users/lowkey/PlayersGuide/BuyingInventory/BuyingInventory/obj/Debug/net6.0/BuyingInventory.csproj.AssemblyReference.cache
+/Users/lowkey/PlayersGuide/BuyingInventory/BuyingInventory/obj/Debug/net6.0/BuyingInventory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lowkey/PlayersGuide/BuyingInventory/BuyingInventory/obj/Debug/net6.0/BuyingInventory.AssemblyInfoInputs.cache
+/Users/lowkey/PlayersGuide/BuyingInventory/BuyingInventory/obj/Debug/net6.0/BuyingInventory.AssemblyInfo.cs
+/Users/lowkey/PlayersGuide/BuyingInventory/BuyingInventory/obj/Debug/net6.0/BuyingInventory.csproj.CoreCompileInputs.cache
+/Users/lowkey/PlayersGuide/BuyingInventory/BuyingInventory/obj/Debug/net6.0/BuyingInventory.dll
+/Users/lowkey/PlayersGuide/BuyingInventory/BuyingInventory/obj/Debug/net6.0/refint/BuyingInventory.dll
+/Users/lowkey/PlayersGuide/BuyingInventory/BuyingInventory/obj/Debug/net6.0/BuyingInventory.pdb
+/Users/lowkey/PlayersGuide/BuyingInventory/BuyingInventory/obj/Debug/net6.0/BuyingInventory.genruntimeconfig.cache
+/Users/lowkey/PlayersGuide/BuyingInventory/BuyingInventory/obj/Debug/net6.0/ref/BuyingInventory.dll
