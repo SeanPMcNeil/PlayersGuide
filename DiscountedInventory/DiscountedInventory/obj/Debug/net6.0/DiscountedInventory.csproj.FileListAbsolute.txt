@@ -1,0 +1,15 @@
+/Users/lowkey/PlayersGuide/DiscountedInventory/DiscountedInventory/bin/Debug/net6.0/DiscountedInventory
+/Users/lowkey/PlayersGuide/DiscountedInventory/DiscountedInventory/bin/Debug/net6.0/DiscountedInventory.deps.json
+/Users/lowkey/PlayersGuide/DiscountedInventory/DiscountedInventory/bin/Debug/net6.0/DiscountedInventory.runtimeconfig.json
+/Users/lowkey/PlayersGuide/DiscountedInventory/DiscountedInventory/bin/Debug/net6.0/DiscountedInventory.dll
+/Users/lowkey/PlayersGuide/DiscountedInventory/DiscountedInventory/bin/Debug/net6.0/DiscountedInventory.pdb
+/Users/lowkey/PlayersGuide/DiscountedInventory/DiscountedInventory/obj/Debug/net6.0/DiscountedInventory.csproj.AssemblyReference.cache
+/Users/lowkey/PlayersGuide/DiscountedInventory/DiscountedInventory/obj/Debug/net6.0/DiscountedInventory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lowkey/PlayersGuide/DiscountedInventory/DiscountedInventory/obj/Debug/net6.0/DiscountedInventory.AssemblyInfoInputs.cache
+/Users/lowkey/PlayersGuide/DiscountedInventory/DiscountedInventory/obj/Debug/net6.0/DiscountedInventory.AssemblyInfo.cs
+/Users/lowkey/PlayersGuide/DiscountedInventory/DiscountedInventory/obj/Debug/net6.0/DiscountedInventory.csproj.CoreCompileInputs.cache
+/Users/lowkey/PlayersGuide/DiscountedInventory/DiscountedInventory/obj/Debug/net6.0/DiscountedInventory.dll
+/Users/lowkey/PlayersGuide/DiscountedInventory/DiscountedInventory/obj/Debug/net6.0/refint/DiscountedInventory.dll
+/Users/lowkey/PlayersGuide/DiscountedInventory/DiscountedInventory/obj/Debug/net6.0/DiscountedInventory.pdb
+/Users/lowkey/PlayersGuide/DiscountedInventory/DiscountedInventory/obj/Debug/net6.0/DiscountedInventory.genruntimeconfig.cache
+/Users/lowkey/PlayersGuide/DiscountedInventory/DiscountedInventory/obj/Debug/net6.0/ref/DiscountedInventory.dll

@@ -1,17 +1,16 @@
-﻿<Properties StartupConfiguration="{2CC880D9-406B-4359-9B77-81E086DC1D99}|Default">
+﻿<Properties StartupConfiguration="{20914BF4-0405-4C74-B46A-64EAEDA1C666}|Default">
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.BuyingInventory PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BuyingInventory/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DiscountedInventory/Program.cs">
     <Files>
-      <File FileName="BuyingInventory/Program.cs" Line="8" Column="24" />
+      <File FileName="DiscountedInventory/Program.cs" Line="42" Column="38" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="BuyingInventory" expanded="True">
-            <Node name="BuyingInventory" expanded="True" />
+          <Node name="DiscountedInventory" expanded="True">
+            <Node name="DiscountedInventory" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -23,4 +22,5 @@
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DiscountedInventory PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

@@ -5,7 +5,7 @@ Console.WriteLine("3 - Climbing Equipment");
 Console.WriteLine("4 - Clean Water");
 Console.WriteLine("5 - Machete");
 Console.WriteLine("6 - Canoe");
-Console.WriteLine("Food Supplies");
+Console.WriteLine("7 - Food Supplies");
 
 Console.Write("What number do you want to see the price of? ");
 int selection = Convert.ToInt32(Console.ReadLine());
