@@ -1,0 +1,15 @@
+/Users/lowkey/PlayersGuide/TheMagicCannon/TheMagicCannon/bin/Debug/net6.0/TheMagicCannon
+/Users/lowkey/PlayersGuide/TheMagicCannon/TheMagicCannon/bin/Debug/net6.0/TheMagicCannon.deps.json
+/Users/lowkey/PlayersGuide/TheMagicCannon/TheMagicCannon/bin/Debug/net6.0/TheMagicCannon.runtimeconfig.json
+/Users/lowkey/PlayersGuide/TheMagicCannon/TheMagicCannon/bin/Debug/net6.0/TheMagicCannon.dll
+/Users/lowkey/PlayersGuide/TheMagicCannon/TheMagicCannon/bin/Debug/net6.0/TheMagicCannon.pdb
+/Users/lowkey/PlayersGuide/TheMagicCannon/TheMagicCannon/obj/Debug/net6.0/TheMagicCannon.csproj.AssemblyReference.cache
+/Users/lowkey/PlayersGuide/TheMagicCannon/TheMagicCannon/obj/Debug/net6.0/TheMagicCannon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lowkey/PlayersGuide/TheMagicCannon/TheMagicCannon/obj/Debug/net6.0/TheMagicCannon.AssemblyInfoInputs.cache
+/Users/lowkey/PlayersGuide/TheMagicCannon/TheMagicCannon/obj/Debug/net6.0/TheMagicCannon.AssemblyInfo.cs
+/Users/lowkey/PlayersGuide/TheMagicCannon/TheMagicCannon/obj/Debug/net6.0/TheMagicCannon.csproj.CoreCompileInputs.cache
+/Users/lowkey/PlayersGuide/TheMagicCannon/TheMagicCannon/obj/Debug/net6.0/TheMagicCannon.dll
+/Users/lowkey/PlayersGuide/TheMagicCannon/TheMagicCannon/obj/Debug/net6.0/refint/TheMagicCannon.dll
+/Users/lowkey/PlayersGuide/TheMagicCannon/TheMagicCannon/obj/Debug/net6.0/TheMagicCannon.pdb
+/Users/lowkey/PlayersGuide/TheMagicCannon/TheMagicCannon/obj/Debug/net6.0/TheMagicCannon.genruntimeconfig.cache
+/Users/lowkey/PlayersGuide/TheMagicCannon/TheMagicCannon/obj/Debug/net6.0/ref/TheMagicCannon.dll
