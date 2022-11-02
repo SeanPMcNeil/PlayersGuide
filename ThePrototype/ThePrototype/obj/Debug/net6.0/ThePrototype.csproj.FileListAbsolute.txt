@@ -1,0 +1,15 @@
+/Users/lowkey/PlayersGuide/ThePrototype/ThePrototype/bin/Debug/net6.0/ThePrototype
+/Users/lowkey/PlayersGuide/ThePrototype/ThePrototype/bin/Debug/net6.0/ThePrototype.deps.json
+/Users/lowkey/PlayersGuide/ThePrototype/ThePrototype/bin/Debug/net6.0/ThePrototype.runtimeconfig.json
+/Users/lowkey/PlayersGuide/ThePrototype/ThePrototype/bin/Debug/net6.0/ThePrototype.dll
+/Users/lowkey/PlayersGuide/ThePrototype/ThePrototype/bin/Debug/net6.0/ThePrototype.pdb
+/Users/lowkey/PlayersGuide/ThePrototype/ThePrototype/obj/Debug/net6.0/ThePrototype.csproj.AssemblyReference.cache
+/Users/lowkey/PlayersGuide/ThePrototype/ThePrototype/obj/Debug/net6.0/ThePrototype.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lowkey/PlayersGuide/ThePrototype/ThePrototype/obj/Debug/net6.0/ThePrototype.AssemblyInfoInputs.cache
+/Users/lowkey/PlayersGuide/ThePrototype/ThePrototype/obj/Debug/net6.0/ThePrototype.AssemblyInfo.cs
+/Users/lowkey/PlayersGuide/ThePrototype/ThePrototype/obj/Debug/net6.0/ThePrototype.csproj.CoreCompileInputs.cache
+/Users/lowkey/PlayersGuide/ThePrototype/ThePrototype/obj/Debug/net6.0/ThePrototype.dll
+/Users/lowkey/PlayersGuide/ThePrototype/ThePrototype/obj/Debug/net6.0/refint/ThePrototype.dll
+/Users/lowkey/PlayersGuide/ThePrototype/ThePrototype/obj/Debug/net6.0/ThePrototype.pdb
+/Users/lowkey/PlayersGuide/ThePrototype/ThePrototype/obj/Debug/net6.0/ThePrototype.genruntimeconfig.cache
+/Users/lowkey/PlayersGuide/ThePrototype/ThePrototype/obj/Debug/net6.0/ref/ThePrototype.dll
