@@ -1,0 +1,15 @@
+/Users/lowkey/PlayersGuide/Countdown/Countdown/bin/Debug/net6.0/Countdown
+/Users/lowkey/PlayersGuide/Countdown/Countdown/bin/Debug/net6.0/Countdown.deps.json
+/Users/lowkey/PlayersGuide/Countdown/Countdown/bin/Debug/net6.0/Countdown.runtimeconfig.json
+/Users/lowkey/PlayersGuide/Countdown/Countdown/bin/Debug/net6.0/Countdown.dll
+/Users/lowkey/PlayersGuide/Countdown/Countdown/bin/Debug/net6.0/Countdown.pdb
+/Users/lowkey/PlayersGuide/Countdown/Countdown/obj/Debug/net6.0/Countdown.csproj.AssemblyReference.cache
+/Users/lowkey/PlayersGuide/Countdown/Countdown/obj/Debug/net6.0/Countdown.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lowkey/PlayersGuide/Countdown/Countdown/obj/Debug/net6.0/Countdown.AssemblyInfoInputs.cache
+/Users/lowkey/PlayersGuide/Countdown/Countdown/obj/Debug/net6.0/Countdown.AssemblyInfo.cs
+/Users/lowkey/PlayersGuide/Countdown/Countdown/obj/Debug/net6.0/Countdown.csproj.CoreCompileInputs.cache
+/Users/lowkey/PlayersGuide/Countdown/Countdown/obj/Debug/net6.0/Countdown.dll
+/Users/lowkey/PlayersGuide/Countdown/Countdown/obj/Debug/net6.0/refint/Countdown.dll
+/Users/lowkey/PlayersGuide/Countdown/Countdown/obj/Debug/net6.0/Countdown.pdb
+/Users/lowkey/PlayersGuide/Countdown/Countdown/obj/Debug/net6.0/Countdown.genruntimeconfig.cache
+/Users/lowkey/PlayersGuide/Countdown/Countdown/obj/Debug/net6.0/ref/Countdown.dll
