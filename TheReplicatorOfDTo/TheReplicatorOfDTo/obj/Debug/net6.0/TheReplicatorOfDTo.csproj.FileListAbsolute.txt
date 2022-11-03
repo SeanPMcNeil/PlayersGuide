@@ -1,0 +1,15 @@
+/Users/lowkey/PlayersGuide/TheReplicatorOfDTo/TheReplicatorOfDTo/bin/Debug/net6.0/TheReplicatorOfDTo
+/Users/lowkey/PlayersGuide/TheReplicatorOfDTo/TheReplicatorOfDTo/bin/Debug/net6.0/TheReplicatorOfDTo.deps.json
+/Users/lowkey/PlayersGuide/TheReplicatorOfDTo/TheReplicatorOfDTo/bin/Debug/net6.0/TheReplicatorOfDTo.runtimeconfig.json
+/Users/lowkey/PlayersGuide/TheReplicatorOfDTo/TheReplicatorOfDTo/bin/Debug/net6.0/TheReplicatorOfDTo.dll
+/Users/lowkey/PlayersGuide/TheReplicatorOfDTo/TheReplicatorOfDTo/bin/Debug/net6.0/TheReplicatorOfDTo.pdb
+/Users/lowkey/PlayersGuide/TheReplicatorOfDTo/TheReplicatorOfDTo/obj/Debug/net6.0/TheReplicatorOfDTo.csproj.AssemblyReference.cache
+/Users/lowkey/PlayersGuide/TheReplicatorOfDTo/TheReplicatorOfDTo/obj/Debug/net6.0/TheReplicatorOfDTo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lowkey/PlayersGuide/TheReplicatorOfDTo/TheReplicatorOfDTo/obj/Debug/net6.0/TheReplicatorOfDTo.AssemblyInfoInputs.cache
+/Users/lowkey/PlayersGuide/TheReplicatorOfDTo/TheReplicatorOfDTo/obj/Debug/net6.0/TheReplicatorOfDTo.AssemblyInfo.cs
+/Users/lowkey/PlayersGuide/TheReplicatorOfDTo/TheReplicatorOfDTo/obj/Debug/net6.0/TheReplicatorOfDTo.csproj.CoreCompileInputs.cache
+/Users/lowkey/PlayersGuide/TheReplicatorOfDTo/TheReplicatorOfDTo/obj/Debug/net6.0/TheReplicatorOfDTo.dll
+/Users/lowkey/PlayersGuide/TheReplicatorOfDTo/TheReplicatorOfDTo/obj/Debug/net6.0/refint/TheReplicatorOfDTo.dll
+/Users/lowkey/PlayersGuide/TheReplicatorOfDTo/TheReplicatorOfDTo/obj/Debug/net6.0/TheReplicatorOfDTo.pdb
+/Users/lowkey/PlayersGuide/TheReplicatorOfDTo/TheReplicatorOfDTo/obj/Debug/net6.0/TheReplicatorOfDTo.genruntimeconfig.cache
+/Users/lowkey/PlayersGuide/TheReplicatorOfDTo/TheReplicatorOfDTo/obj/Debug/net6.0/ref/TheReplicatorOfDTo.dll

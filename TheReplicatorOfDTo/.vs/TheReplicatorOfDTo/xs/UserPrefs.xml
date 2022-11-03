@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{B1C449A7-5B39-4CBE-9BF7-844D56FD01DF}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TheReplicatorOfDTo/Program.cs">
+    <Files>
+      <File FileName="TheReplicatorOfDTo/Program.cs" Line="12" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TheReplicatorOfDTo" expanded="True">
+            <Node name="TheReplicatorOfDTo" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TheReplicatorOfDTo PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
